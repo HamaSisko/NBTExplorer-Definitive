@@ -32,8 +32,8 @@ This application was meticulously crafted with a focus on both aesthetics and fu
 ## Getting Started
 
 **HOW TO DOWNLOAD**
-*   Since the file is bigger than 50mb github does not allow me to upload it here!
-* >   [Download Here!](https://www.mediafire.com/file/zqjbsw49iy7p00w/NBTExplorer+Definitive+1.0.0.exe/file)   
+*   Check [Releases](https://github.com/HamaSisko/NBTExplorer-Definitive/releases/tag/NBT) Or Download From MediaFire 
+*   [MediaFire : Download Here!](https://www.mediafire.com/file/zqjbsw49iy7p00w/NBTExplorer+Definitive+1.0.0.exe/file)   
 
 ## Future Plans & Roadmap
 
