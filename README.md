@@ -1,6 +1,7 @@
 ### A Modern, Sleek, and Powerful NBT Editor Built with Electron
 
-![NBTExplorer Screenshot](https://github.com/user-attachments/assets/a874950f-4bba-495d-9ff0-5cce4817dc8b) 
+![NBTExplorer Screenshot](https://github.com/user-attachments/assets/c8429694-97d9-413e-b545-d5344b5ed92f)
+
 
 ## About The Project
 
